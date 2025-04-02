@@ -1,0 +1,4 @@
+﻿  BoyerMur.cpp
+C:\Users\Semyon\source\repos\BoyerMur\BoyerMur\BoyerMur.cpp(23,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Semyon\source\repos\BoyerMur\BoyerMur\BoyerMur.cpp(24,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  BoyerMur.vcxproj -> C:\Users\Semyon\source\repos\BoyerMur\x64\Debug\BoyerMur.exe

@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+C:\Users\Semyon\source\repos\KMP\KMP\KMP.cpp(32,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Semyon\source\repos\KMP\KMP\KMP.cpp(33,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  KMP.vcxproj -> C:\Users\Semyon\source\repos\KMP\x64\Debug\KMP.exe
